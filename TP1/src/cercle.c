@@ -8,3 +8,4 @@ double r = 6;
    printf("Le périmètre du cercle = %f", pi*(r+r));
 }
 
+
