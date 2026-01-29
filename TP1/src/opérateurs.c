@@ -21,4 +21,5 @@ int main() {
     printf("a est superieur a b ? %d\n", superieur);
 
     return 0;
+}
 
